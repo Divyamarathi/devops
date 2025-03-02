@@ -1,3 +1,2 @@
-this is from main f1.txt
 added f1.txt to the branch 2b
 copmare the diff btw 2 files using git diff
