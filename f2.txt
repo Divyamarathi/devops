@@ -1,0 +1,2 @@
+this is from main f2.txt
+adde new file to branch 2b
