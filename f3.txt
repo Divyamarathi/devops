@@ -1,2 +1,2 @@
-this f3.txt from 2b
+this f3.txt from 1b merged to 2b
 modified 2nd line
